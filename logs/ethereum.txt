@@ -5199,3 +5199,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x598218e2c"}
 {"jsonrpc":"2.0","id":1,"result":"0xa1c361c65"}
 {"jsonrpc":"2.0","id":1,"result":"0x94a1aab84"}
+{"error":"{\"Error_GUID\":\"13224377891582932352\",\"Error\":\"No pairings available.\"}"}
