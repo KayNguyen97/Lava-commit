@@ -5180,3 +5180,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x416e3ce02"}
 {"error":"{\"Error_GUID\":\"1298584642255200987\",\"Error\":\"No pairings available.\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x365251897"}
+{"jsonrpc":"2.0","id":1,"result":"0x341825d4e"}
