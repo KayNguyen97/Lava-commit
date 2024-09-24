@@ -5183,3 +5183,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x341825d4e"}
 {"error":"{\"Error_GUID\":\"838178440313425748\",\"Error\":\"No pairings available.\"}"}
 {"error":"{\"Error_GUID\":\"15335042705298945264\",\"Error\":\"No pairings available.\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x3691730e4"}
