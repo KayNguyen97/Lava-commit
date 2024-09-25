@@ -5216,3 +5216,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x431677c3e"}
 {"jsonrpc":"2.0","id":1,"result":"0x49d19c1b7"}
 {"jsonrpc":"2.0","id":1,"result":"0x4524ba6f6"}
+{"error":"{\"Error_GUID\":\"7309651864076500120\",\"Error\":\"No pairings available.\"}"}
