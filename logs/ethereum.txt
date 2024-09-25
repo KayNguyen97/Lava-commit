@@ -5230,3 +5230,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x2e23ef4eb"}
 {"jsonrpc":"2.0","id":1,"result":"0x28de74af0"}
 {"error":"{\"Error_GUID\":\"7800704861541461731\",\"Error\":\"No pairings available.\"}"}
+{"error":"{\"Error_GUID\":\"2898321951165594676\",\"Error\":\"No pairings available.\"}"}
