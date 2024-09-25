@@ -5240,3 +5240,4 @@
 {"error":"{\"Error_GUID\":\"12353517496835123530\",\"Error\":\"No pairings available.\"}"}
 {"error":"{\"Error_GUID\":\"12890750429301879220\",\"Error\":\"No pairings available.\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x56289da2c"}
+{"jsonrpc":"2.0","id":1,"result":"0x3b5b53131"}
