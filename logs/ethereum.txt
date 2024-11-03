@@ -7578,3 +7578,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0xc8b75997"}
 {"error":"{\"Error_GUID\":\"841036944956258272\",\"Error\":\"No pairings available.\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0xa55245b9"}
+{"jsonrpc":"2.0","id":1,"result":"0xaacfa126"}
