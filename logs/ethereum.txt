@@ -7770,3 +7770,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x75ac733a2"}
 {"jsonrpc":"2.0","id":1,"result":"0x8a20654bb"}
 {"jsonrpc":"2.0","id":1,"result":"0x87c45f187"}
+error code: 502
