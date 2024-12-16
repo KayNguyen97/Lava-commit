@@ -10120,3 +10120,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x249dcb1a0"}
 {"jsonrpc":"2.0","id":1,"result":"0x1cc9265a4"}
 {"jsonrpc":"2.0","id":1,"result":"0x23411d277"}
+error code: 502
