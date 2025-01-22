@@ -12395,3 +12395,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x22c137ff1"}
 {"jsonrpc":"2.0","id":1,"result":"0x379f88114"}
 {"jsonrpc":"2.0","id":1,"result":"0x421f4c9ca"}
+error code: 502
