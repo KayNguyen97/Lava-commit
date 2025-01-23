@@ -12425,3 +12425,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x13ccd7bd7"}
 {"jsonrpc":"2.0","id":1,"result":"0x1a1420cf5"}
 {"jsonrpc":"2.0","id":1,"result":"0x1770a6fd2"}
+error code: 502
