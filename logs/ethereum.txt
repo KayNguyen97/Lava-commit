@@ -12894,3 +12894,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0xf923ba3a"}
 error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x2620d963f"}
+error code: 502
