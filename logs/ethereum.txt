@@ -13145,3 +13145,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x51a442999"}
 {"jsonrpc":"2.0","id":1,"result":"0x68dbfc73f"}
 {"jsonrpc":"2.0","id":1,"result":"0x45132d978"}
+error code: 502
