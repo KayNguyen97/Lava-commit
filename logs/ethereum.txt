@@ -28705,3 +28705,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x1e25ec7a"}
 {"jsonrpc":"2.0","id":1,"result":"0x259b7d9d"}
 {"jsonrpc":"2.0","id":1,"result":"0xee51df5"}
+error code: 502
