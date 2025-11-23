@@ -29290,3 +29290,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x5556eb0"}
 {"jsonrpc":"2.0","id":1,"result":"0x56184c7"}
 {"jsonrpc":"2.0","id":1,"result":"0x54b59d9"}
+error code: 502
