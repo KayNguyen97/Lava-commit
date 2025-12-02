@@ -29733,3 +29733,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x2bd5a80"}
 {"jsonrpc":"2.0","id":1,"result":"0x1d72680"}
 {"jsonrpc":"2.0","id":1,"result":"0x22da9a0"}
+error code: 502
