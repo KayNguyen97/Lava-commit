@@ -30144,3 +30144,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x978d6f4"}
 {"jsonrpc":"2.0","id":1,"result":"0xaa7cd2c"}
 {"jsonrpc":"2.0","id":1,"result":"0x9ac8546"}
+error code: 502
