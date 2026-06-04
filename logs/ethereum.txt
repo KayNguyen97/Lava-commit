@@ -35079,3 +35079,10 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x13d433d4"}
 {"jsonrpc":"2.0","id":1,"result":"0xd2739bf"}
 {"jsonrpc":"2.0","id":1,"result":"0x22eb8f48"}
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.28.0</center>
+</body>
+</html>
