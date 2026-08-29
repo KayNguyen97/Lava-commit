@@ -36426,3 +36426,4 @@ error code: 502
 {"title":"Too many requests","message":"You've reached your RPC rate limit. Visit the dashboard to upgrade your plan."}
 {"title":"Too many requests","message":"You've reached your RPC rate limit. Visit the dashboard to upgrade your plan."}
 {"title":"Too many requests","message":"You've reached your RPC rate limit. Visit the dashboard to upgrade your plan."}
+{"title":"Too many requests","message":"You've reached your RPC rate limit. Visit the dashboard to upgrade your plan."}
